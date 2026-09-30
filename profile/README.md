@@ -1,6 +1,6 @@
 # eval forge
 
-## Check Test #1 results and its prompt on our [website](https://eval-forge.github.io)
+### Note: Check Test #1 results and its prompt on our [website](https://eval-forge.github.io)
 
 **Open evaluations for frontier AI models.**
 
