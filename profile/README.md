@@ -1,7 +1,7 @@
 # eval forge
 
-### Note: Check Test #1 results and its prompt on our [website](https://eval-forge.github.io)
-
+### Note: Please check Test #1 results and its prompt on our [website](https://eval-forge.github.io)
+--------
 **Open evaluations for frontier AI models.**
 
 Eval Forge is a collection of tests designed to measure, compare, and explore the capabilities of modern AI models.
