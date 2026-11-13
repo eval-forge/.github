@@ -1,6 +1,6 @@
 # Eval Forge
 
-### Note: Please check Test #3 results and its prompt on our [website](https://eval-forge.github.io), which includes the newly released Fable 5.2
+### Note: Please check Test #4 results and its prompt on our [website](https://eval-forge.github.io), which includes the newly released Fable 5.2
 --------
 **Open evaluations for frontier AI models.**
 
